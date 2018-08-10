@@ -11,6 +11,8 @@ function yourAnimal() {
   var animal = 'cat';
 }
 yourAnimal();
+console.log(animal);
+animal;
 
 
 function add2(n) {

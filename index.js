@@ -10,8 +10,8 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   var animal = 'cat';
 }
-myAnimal();
-animal;
+yourAnimal();
+
 
 
 function add2(n) {

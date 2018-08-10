@@ -11,7 +11,7 @@ function yourAnimal() {
   var animal = 'cat';
 }
 yourAnimal();
-
+console.log(animal);
 
 
 function add2(n) {
